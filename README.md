@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 Hi, My name is 
+- 🔭 Hi, My name is Ryan Fikri
 - 🌱 I’m currently learning Python, C, and C++
 - 📫 How to reach me: ryanfikri5@gmail.com
 - ⚡ Fun fact: I love eggs
